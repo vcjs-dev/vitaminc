@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Vue ui library via material design.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "vue",
     "material design",
@@ -16,5 +13,8 @@
     "email": "yisiwings@163.com"
   },
   "homepage": "https://github.com/vcjs-dev/vcjs",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "release": "npm publish --access=public && git push --follow-tags"
+  }
 }
