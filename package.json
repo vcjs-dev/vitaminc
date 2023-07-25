@@ -1,5 +1,5 @@
 {
-  "name": "vcjs",
+  "name": "@vcjs/material",
   "version": "1.0.0",
   "description": "Vue ui library via material design.",
   "main": "index.js",
