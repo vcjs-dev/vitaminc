@@ -1,3 +1,3 @@
 # vitaminc
 
-Vue ui library with material design.
+A material design style Vue UI library.
