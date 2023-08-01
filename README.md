@@ -1,2 +1,3 @@
-# vcjs
-Vue ui library via material design.
+# vitaminc
+
+Vue ui library with material design.

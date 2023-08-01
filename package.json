@@ -1,7 +1,7 @@
 {
-  "name": "@vcjs/material",
+  "name": "vitaminc-ui",
   "version": "1.0.0",
-  "description": "Vue ui library via material design.",
+  "description": "A material design style Vue UI library.",
   "main": "index.js",
   "keywords": [
     "vue",
